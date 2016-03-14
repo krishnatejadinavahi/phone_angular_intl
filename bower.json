@@ -1,6 +1,6 @@
 {
   "name": "phone-angular-intl",
-   "version": "0.0.3",
+   "version": "0.0.4",
   "main": "dist/scripts/scripts.c7bb7cfe.js",
     "ignore": [
         "source",
