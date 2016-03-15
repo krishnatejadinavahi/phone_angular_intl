@@ -10,17 +10,17 @@
  */
 angular
   .module('phoneAngularIntlApp', [
-    'ngAnimate',
+  /*  'ngAnimate',
     'ngAria',
     'ngCookies',
     'ngMessages',
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch',
-    
+    'ngTouch',*/
+
   ])
-  .config(function ($routeProvider) {
+/*  .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
         templateUrl: 'views/main.html',
@@ -36,5 +36,4 @@ angular
         redirectTo: '/'
       });
 
-  });
-
+  });*/
